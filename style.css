@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+    font-family: 'Limelight', cursive;
+}
+
+.head{
+font-size: 35px;
+width: 100%;
+margin:0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+
+
+.div-speed{
+    float:left;
+
+}
+
+.speed-disk{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div-volume{
+    float:right;
+
+}
+
+.volume-disk{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 15px;
+}
